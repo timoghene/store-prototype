@@ -1,0 +1,97 @@
+body{
+    font-family: 'Grape Nuts',cursive;
+}
+h2{
+    font-family: 'Grape Nuts',cursive;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+h4{
+    color:aquamarine;
+
+}
+h6{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+    color:antiquewhite;
+}
+p{
+    margin-bottom: 0;
+}
+.head-img{
+    width:15%;
+}
+/* header */
+#header{
+   background-color: aliceblue;
+   width:100vw;
+   text-align: center;
+   color:gold;
+}
+
+/* products display */
+#clothes{
+    padding:7% 15%;
+    text-align: center;
+    background-color:  #66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+.clothes-img{
+    width:15%;
+    margin-bottom:1rem;  
+    margin:10px; 
+}
+.clothes-div{
+    padding:7% 15%;
+}
+.buy-img{
+    width:20px;
+}
+.buy-button{
+    margin-bottom: 35px;
+}
+ /* boots section */
+ #boots{
+    padding:7% 15%;
+    text-align: center;
+    background-color:darkgray;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#Sneakers{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#shoes{
+    padding:7% 15%;
+    text-align: center;
+    background-color:darkgray;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#Games{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#extras{
+    background-color: aliceblue;
+    width:100vw;
+    color:gold;
+    padding-left: 10px;
+ }
+ .response-section{
+     color:black;
+ }
