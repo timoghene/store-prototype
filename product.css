@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+body{
+    font-family: 'Grape Nuts',cursive;
+}
+
+h4{
+    color:gold;
+
+}
+h5{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+h6{
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+    color:antiquewhite;
+}
+p{
+    margin-bottom: 0;
+}
+
+.head-img{
+    width:15%;
+}
+/* header */
+#header{
+   background-color: aliceblue;
+   width:100vw;
+   text-align: center;
+   color:gold;
+}
+.header-text{
+    font-family: 'Grape Nuts',cursive;
+    font-size: 3.0rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+.header-sub-text{ 
+    font-family: 'Grape Nuts',cursive;
+    font-size: larger;
+    font-weight: bolder;
+}
+.btn-timo{
+    padding:5px;
+}
+.btn-timo:hover{
+    color: black;
+}
+/* products display */
+#clothes{
+    padding:7% 15%;
+    text-align: center;
+    background-color:  #66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+.clothes-img{
+    width:15%;
+    margin-bottom:1rem;  
+    margin:10px; 
+}
+.clothes-div{
+    padding:7% 15%;
+}
+.buy-img{
+    width:20px;
+}
+.buy-button{
+    margin-bottom: 35px;
+}
+ /* boots section */
+ #boots{
+    padding:7% 15%;
+    text-align: center;
+    background-color:darkgray;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#Sneakers{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#shoes{
+    padding:7% 15%;
+    text-align: center;
+    background-color:darkgray;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#Games{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+
+#extras{
+    background-color: aliceblue;
+    width:100vw;
+    color:black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+ }
+ .extra-text{
+    font-family: 'Grape Nuts',cursive;
+     font-size: larger;
+     font-weight: bolder;
+     font-size: 2.0rem;
+ }
+ .response-section{
+     color:black;
+ }
+ 
+ /*footer*/
+ #footer{
+    font-family: 'Grape Nuts',cursive;
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    width:100vw;
+}
+.footer-p{
+    font-size:larger;
+    font-weight: 600;
+}
