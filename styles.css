@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+body{
+    font-family:  'Grape Nuts',cursive;
+}
+#title{
+    background-color: #66BFBF;
+    width:100vw;
+}
+#features{
+      text-align: center;
+      background-color: aliceblue;
+      color:gray;
+      padding:7% 15%;
+      width:100vw;
+}
+h1{
+   
+}
+h2,h3{
+    font-family: 'Nunito', sans-serif;
+}
+h3{
+    color:#66BFBF;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+/* Headings-section */
+.big-heading{
+    font-family: 'Grape Nuts',cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+/* comments */
+.comments{
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+/*features*/
+.features-text{
+    font-weight: 600;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.title-img{
+    width:70%;
+}
+.order-img{
+    width:20px;
+}
+.features-img{
+    width:15%;
+    margin-bottom:1rem;
+}
+.features-img:hover{
+    background-color:#66BFBF;
+}
+/* navigation bar */
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    
+}
+/* buttons */
+.order-button{
+    margin: 5% 3% 5% 0%;
+}
+/* testimonial section */
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color:  #66BFBF;
+    color:antiquewhite;
+    width:100vw;
+}
+.testimonials-img{
+    width:15%;
+    margin-bottom:1rem;  
+    margin:20px; 
+}
+/* display section */
+.display-img{
+    width:15%;
+    margin-bottom:2rem;  
+    margin:20px; 
+}
+.display-container{
+    background-color:aliceblue;
+    text-align:center;
+    color:gray;
+    padding:7% 15%;
+    width:100vw;
+}
+/* footer */
+#footer{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#66BFBF;
+    width:100vw;
+}
+.footer-p{
+    font-size:larger;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
